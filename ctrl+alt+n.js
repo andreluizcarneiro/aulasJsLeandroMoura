@@ -1,0 +1,1 @@
+console.log('Graças ao plugin Code Runner o Ctrl+Alt+N ele faz a execução no console')
